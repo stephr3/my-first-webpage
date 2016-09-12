@@ -1,5 +1,5 @@
 # My First Webpage
-## *By Stephanie Gurung*
+## *By Stephanie Gurung & Shradha Pulla*
 
 A simple HTML page with multiple files.
 
@@ -18,4 +18,4 @@ Open index.html file in your browser of choice.
 License
 -------
 _This software is licensed under the MIT license._<br>
-Copyright (c) 2016 *Stephanie Gurung*
+Copyright (c) 2016 *Stephanie Gurung & Shradha Pulla*
